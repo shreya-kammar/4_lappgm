@@ -1,4 +1,6 @@
 a = int(input("enter a : "))
 b= int(input("enter b : "))
-print("addition : "a+b)
-print("substraction : " a-b)
+print("addition : ",a+b)
+print("substraction : ", a-b)
+print("multiplication :",a*b)
+print("division : ",a/b)
